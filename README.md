@@ -6,16 +6,22 @@ JS and DOM Exercise
 Instructions to this assignment can be found [here](https://reedws.github.io/IT3049C/coursework/labs/js-and-dom-exercises/).
 
 - [x] update the assignment checks above to the correct link. - Done Automatically
-- [ ] update the assignment checks above to the correct link
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] update the assignment checks above to the correct link
+- [x] All Unit tests passed.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (You may base this on the number of exercises you were able to complete)
 how many points out of 20 do you deserve on this assignment:
 
+I deserve 20 out of 20 points on this assignment
+
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
 
+I learned about the different types of event listeners and found that interesting
+
 ### How long it took you to finish this?
+
+Took me about 45 minutes
